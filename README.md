@@ -24,8 +24,8 @@
 </details>
 
 <a href="https://github.com/starue"><img src="https://komarev.com/ghpvc/?username=starue" alt="starue" /></a>
-<a href="https://xfums.cn"><img src="https://img.shields.io/badge/Blog-qq52o.me-blue" alt="Blog" /></a>
-<a href="mailto:3038733136@qq.com"><img src="https://img.shields.io/badge/Email-lufei@php.net-blue" alt="Email" /></a>
+<a href="https://xfums.cn"><img src="https://img.shields.io/badge/Blog-xfums.cn-blue" alt="Blog" /></a>
+<a href="mailto:3038733136@qq.com"><img src="https://img.shields.io/badge/Email-3038733136@qq.com-blue" alt="Email" /></a>
 <a href="https://github.com/starue?tab=followers"><img src="https://img.shields.io/github/followers/starue"></a>
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/starue/starue/output/github-contribution-grid-snake.svg)](https://github.com/starue)
